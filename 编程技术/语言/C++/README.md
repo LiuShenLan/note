@@ -113,8 +113,6 @@ int sum = accumulate(vec.begin(), vec.end(), initVal);
 
 string sum = accumulate(vec.begin() , vec.end() , stringVal);
 // 从stringVal开始把所有的vec中的字符串连接起来
-
-// TODO: 自定义数据类型的处理
 ```
 
 ## 5. vector
